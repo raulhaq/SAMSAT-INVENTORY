@@ -1,13 +1,6 @@
 <?php
 session_start();
-$conn = mysqli_connect("MYSQL1001.site4now.net", "aba7d3_raul", "Abcd1234!", "db_aba7d3_raul");
-
-
-// Langsung redirect ke index.php saat tombol login ditekan
-if (isset($_POST['login'])) {
-    header('Location: index.php');
-    exit;
-}
+$conn = mysqli_connect("localhost","root","","tes1");
 
 
 // tambahkan fungsi untuk daftar user
