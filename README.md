@@ -8,4 +8,6 @@ Project ini adalah sistem informasi untuk mencatat dan memantau inventaris kanto
 3. Jalankan `localhost/nama_project/` di browser
 
 ## Dibuat oleh
-Nama Kamu - 2025
+M. Raul Al Haq
+Raudhatul Mahfuzha
+- 2025 - 
