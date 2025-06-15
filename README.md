@@ -1,4 +1,4 @@
-# Sistem Informasi Inventaris
+# Sistem Inventaris Barang 
 
 Project ini Sistem Informasi Inventaris Barang yang dikembangkan untuk membantu UPTD-PPA Wilayah I Banda Aceh dalam mencatat, memantau, dan mengelola data inventaris secara digital. Proyek ini dibangun menggunakan PHP dan MySQL, serta diimplementasikan secara lokal melalui XAMPP.
 
